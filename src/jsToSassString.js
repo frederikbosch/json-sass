@@ -1,5 +1,6 @@
 'use strict';
 
+
 import isPlainObject from 'lodash-node/modern/objects/isPlainObject';
 let { isArray } = Array;
 
